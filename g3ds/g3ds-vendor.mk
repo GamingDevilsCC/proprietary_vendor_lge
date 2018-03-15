@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3ds/proprietary/etc/acdbdata/Speaker_cal.acdb:system/etc/acdbdata/Speaker_cal.acdb \
     vendor/lge/g3ds/proprietary/vendor/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/lge/g3ds/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
+	vendor/lge/g3ds/proprietary/vendor/etc/data/qmi_config.xml:system/vendor/etc/data/qmi_config.xml \
     vendor/lge/g3ds/proprietary/vendor/firmware/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmdhd_apsta.bin \
     vendor/lge/g3ds/proprietary/vendor/firmware/fw_bcmdhd.bin:system/vendor/firmware/fw_bcmdhd.bin \
     vendor/lge/g3ds/proprietary/vendor/firmware/fw_bcmdhd_mfg.bin:system/vendor/firmware/fw_bcmdhd_mfg.bin \
